@@ -1,9 +1,10 @@
+import { HeaderComponent } from './Components/Header-Component/HeaderComponent'
 import './App.css';
 
 function App() {
   return (
     <>
-    <p>Learn React</p> 
+    <HeaderComponent/>
       
     </>
   );
